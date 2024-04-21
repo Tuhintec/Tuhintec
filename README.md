@@ -1,77 +1,14 @@
-A Hx  G GZ GZ VG  SB SCDCSBSSBVSJZXBDJZD  DBD GD N.
-BD 
-GD D
-VD 
-DGDD CJSgss
-vd djcd
-vd nhd.d
-wge
-dneyhwfe
-ehhghwns
-hebd
-hejd
-duf
-dhdn
-dhdfay
-hdxa
-hiwjdjs
-jssuej
-wnsbsm
-udjhd
-dudndhanhd
-hdhdye.
-.ydehesm
-dhekakax
-dyd
-dghd
-ydbjdcxscs
-gdxa
-hdve
-hege
-dfshvsmydj
-dhnhndndubhj
-hduzuenud
-yrum
-eye
-yebdw
-tebesje
-xhd
-ydxjddhn
-
-7fkzenmrdj
-h2vjem
-uehjse
-3bhe7uhe7d
-muenhd8ner
-udye
-7e82
-e28igeia
-d7edjdtw
-biejnud2mdhkw
-u.e
-hjndhegjytyxkzmnxnrlmnv
-.e
-shgmz
-heydmjrnuknddnndhs
-undedudnr
-ud
-dmxhe
-zge
-ys.us
-dm
-z
-x
-y
-xnhd
-jx
-fxydnhs
-bydghsnggs
-uenyksiwrtusa
-3e7g3d
-mgdnx
-tuvnvif
-fcjcjck 
-
-bzchs
-h
-99
+sudo apt-get install gitgit --versiongit config --global user.name "MV Tûhíñgit config --global user.name "
+git config --global user.email "example@mail.com"example@mail.comexample@mail.comexample@mail.comgit --versionuser.emailgit config --global user.name 
+git config --global user.email "example@mail.com"git config --global user.name 
+git config --global user.email "example@mail.com"user.emailgit --versiongit config --global user.name 
+git config --global user.email "example@mail.com"git config --global user.name 
+git config --global user.email "example@mail.com"user.namegit config --global user.name "
+git config --global user.email "example@mail.com"git config --global user.name ""
+git config --global user.email "example@mail.com"user.emailgit --versiongit config --global user.name ""
+git config --global user.email "example@mail.com"git config --global user.name ""
+git config --global user.email "example@mail.com"git config --global user.name 
+git config --global user.email "example@mail.com"cd [NAME OF REPOSITORY]git clone [HTTPS ADDRESS]git clone [HTTPS ADDRESS]sudo apt-get install gitsudo apt-get install gitsudo apt-get install gitgit clone [HTTPS ADDRESS]git config --global user.name
+git config --global user.email "example@mail.com"git config --global user.name
+git config --global user.email "example@mail.com"git clone [HTTPS ADDRESS]git clone [HTTPS ADDRESS]git clone [HTTPS ADDRESS]"
+git config --global user.email "example@mail.com"git clone [HTTPS ADDRESS]cd [NAME OF REPOSITORY]
